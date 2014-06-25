@@ -1,7 +1,7 @@
 kserh-csharp
 ============
 
-### "Kserh" multiplayer card game ( 2 )
+### "Kserh" multiplayer card game ( 2 Players )
 
 Created with C#, using TCP Sockets ( Client/Server ), Last update 29/10/2010
 
